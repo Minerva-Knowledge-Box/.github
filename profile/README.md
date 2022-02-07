@@ -16,5 +16,5 @@
 ### 8. Sandbox Problems: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/%20Sandbox%20Problems
 ### 9. AWS: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/AWS
 ### 10. Jenkins CICD: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Jenkins%20CICD
-### 11.
-### 12.
+### 11. Microsoft Azure: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Microsoft%20Azure
+### 12. Visualization Tools: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Visualization%20Tools
