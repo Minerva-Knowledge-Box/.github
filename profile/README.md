@@ -18,3 +18,9 @@
 ### 10. Jenkins CICD: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Jenkins%20CICD
 ### 11. Microsoft Azure: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Microsoft%20Azure
 ### 12. Visualization Tools: https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Visualization%20Tools
+### 13. CyberSecurity_website: https://github.com/Minerva-Knowledge-Box/Lutfor/blob/main/CyberSecurity_website
+### 14. EleosInc_website: https://github.com/Minerva-Knowledge-Box/Lutfor/blob/main/EleosInc_website
+### 15. ML_Mode_Deployment(AWS+Databricks+MLFLOW): https://github.com/Minerva-Knowledge-Box/Lutfor/blob/main/ML_Mode_Deployment(AWS%2BDatabricks%2BMLFLOW)
+### 16: ML_Model_Deployment(AWS+FARGATE): https://drive.google.com/drive/folders/1A02vRYDlGbwULnSDmo2dcIWEBDy9xURG?usp=sharing
+### 17. ML_Model_Deployment(Azure): https://drive.google.com/drive/folders/1w1iZ2IsnjmmLSMOLvBZBAtRf4sqAPiD4?usp=sharing
+### 18. Minerva_Official_Website: https://drive.google.com/drive/folders/1UgPoKofwLrv81sFHHuGgZEhH70YFWVi3?usp=sharing
