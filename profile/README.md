@@ -24,3 +24,7 @@
 ### 16: ML_Model_Deployment(AWS+FARGATE): https://drive.google.com/drive/folders/1A02vRYDlGbwULnSDmo2dcIWEBDy9xURG?usp=sharing
 ### 17. ML_Model_Deployment(Azure): https://drive.google.com/drive/folders/1w1iZ2IsnjmmLSMOLvBZBAtRf4sqAPiD4?usp=sharing
 ### 18. Minerva_Official_Website: https://drive.google.com/drive/folders/1UgPoKofwLrv81sFHHuGgZEhH70YFWVi3?usp=sharing
+### 19. Anomaly detection from video : https://github.com/Minerva-Knowledge-Box/Farhana/tree/main/anomaly_detection
+### 20. Cyber Security promotional video : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/CyberSecurity_video
+### 21. Stream live video using AWS kinesis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Stream%20live%20video%20using%20AWS%20kinesis.docx
+### 22. Tme serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
