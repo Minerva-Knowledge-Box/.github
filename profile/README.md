@@ -27,4 +27,4 @@
 ### 18. Minerva_Official_Website: https://drive.google.com/drive/folders/1UgPoKofwLrv81sFHHuGgZEhH70YFWVi3?usp=sharing
 ### 19. Anomaly detection from video : https://github.com/Minerva-Knowledge-Box/Farhana/tree/main/anomaly_detection
 ### 20. Stream live video using AWS kinesis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Stream%20live%20video%20using%20AWS%20kinesis.docx
-### 21. Tme serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
+### 21. Time serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
