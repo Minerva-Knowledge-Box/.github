@@ -6,6 +6,7 @@
 #### a. One class svm :   https://github.com/Minerva-Knowledge-Box/Saiful/blob/main/CyberML/Core_code_One_class_SVM/Intrution_detection.zip
 #### b. Data Collection : https://github.com/Minerva-Knowledge-Box/Maksud/tree/main/Cyber%20Security
 #### c. Design : https://github.com/Minerva-Knowledge-Box/Sanjir/tree/main/Cybersecurity
+#### d. Promotional video : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/CyberSecurity_video
 ### 3. Pet pharma Project (Cow ultra sound classification) (video classification, data sampling ) : https://github.com/Minerva-Knowledge-Box/Saiful/tree/main/Petpharma
 ### 4. simple ML pipline with python: https://github.com/Minerva-Knowledge-Box/Saiful/blob/main/ML_pipeline.zip
 ### 5. Azure model deployment and scoring: https://github.com/Minerva-Knowledge-Box/Maksud/tree/main/Azure%20model%20deployment%20and%20scoring
@@ -25,6 +26,5 @@
 ### 17. ML_Model_Deployment(Azure): https://drive.google.com/drive/folders/1w1iZ2IsnjmmLSMOLvBZBAtRf4sqAPiD4?usp=sharing
 ### 18. Minerva_Official_Website: https://drive.google.com/drive/folders/1UgPoKofwLrv81sFHHuGgZEhH70YFWVi3?usp=sharing
 ### 19. Anomaly detection from video : https://github.com/Minerva-Knowledge-Box/Farhana/tree/main/anomaly_detection
-### 20. Cyber Security promotional video : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/CyberSecurity_video
-### 21. Stream live video using AWS kinesis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Stream%20live%20video%20using%20AWS%20kinesis.docx
-### 22. Tme serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
+### 20. Stream live video using AWS kinesis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Stream%20live%20video%20using%20AWS%20kinesis.docx
+### 21. Tme serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
