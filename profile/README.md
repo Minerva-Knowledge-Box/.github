@@ -28,4 +28,4 @@
 ### 19. Anomaly detection from video : https://github.com/Minerva-Knowledge-Box/Farhana/tree/main/anomaly_detection
 ### 20. Stream live video using AWS kinesis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Stream%20live%20video%20using%20AWS%20kinesis.docx
 ### 21. Time serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
-### 22. Line Drawing over track : https://github.com/Minerva-Knowledge-Box/lineDrawignOverImage.git
+### 22. Line Drawing over track : https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/line%20drawing
