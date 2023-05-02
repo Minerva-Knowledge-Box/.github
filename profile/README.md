@@ -30,3 +30,4 @@
 ### 21. Time serice Analysis : https://github.com/Minerva-Knowledge-Box/Farhana/blob/main/Time%20series%20Analysis%20code.zip
 ### 22. Line Drawing over track : https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/line%20drawing
 ### 23. Tank Track Detection by YoloV8: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Tank%20Track%20Detecion%20by%20YoLo
+### 24. Image Difference generator: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/ImageDifferenceGenerator
