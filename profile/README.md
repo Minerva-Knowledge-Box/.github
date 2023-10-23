@@ -32,4 +32,7 @@
 ### 23. Tank Track Detection by YoloV8: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Tank%20Track%20Detecion%20by%20YoLo
 ### 24. Image Difference generator: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/ImageDifferenceGenerator
 ### 25. Repeat call project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/repeat%20call%20project
-### 26. Promethous Design part: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/PrometheusDesign
+### 26. Prometheus Design part: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/PrometheusDesign
+### 27. Prometheus project part: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Prometheus
+### 28. Theia project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Theia
+### 29. BullDozer Project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/buldozer%20project
