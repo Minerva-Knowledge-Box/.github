@@ -34,5 +34,5 @@
 ### 25. Repeat call project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/repeat%20call%20project
 ### 26. Prometheus Design part: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/PrometheusDesign
 ### 27. Prometheus project part: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Prometheus
-### 28. Theia project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Theia
+### 28. Nemesis project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Nemesis%C2%A0
 ### 29. BullDozer Project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/buldozer%20project
