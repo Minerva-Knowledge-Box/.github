@@ -37,3 +37,4 @@
 ### 28. Nemesis project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Nemesis%C2%A0
 ### 29. BullDozer Project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/buldozer%20project
 ### 30. Invisible Video Maker: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/invisible_video_maker
+### 31. nemesis update line drawing full: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/tank_track_full_change_box_concept
