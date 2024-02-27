@@ -40,3 +40,5 @@
 ### 31. nemesis update line drawing full: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/tank_track_full_change_box_concept
 ### 32. nemesis update line drawing middle: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/tank_track_middle_change_box_concept
 ### 33. skid marking only line drawing code: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/skid%20marking%20line%20drawing
+### 34. Modeling code from Saiful vai: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/saiful_vai_models_code
+### 35. Skid marking new algo for mask gen: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/skid_marking_new_algo_formaskgen
