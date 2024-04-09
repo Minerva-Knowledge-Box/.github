@@ -46,3 +46,4 @@
 ### 37. Optum Repeat Call: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/OPTUM%20Repeat%20calls
 ### 38. HoneyWell Project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/HoneyWell
 ### 39. Semantic Search: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/Semantic%20Search%20Projects
+### 40. NLQ search and classification: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/NLQ%20search%20and%20classification
