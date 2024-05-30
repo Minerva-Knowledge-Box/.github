@@ -49,3 +49,4 @@
 ### 40. NLQ search and classification(word2vec,Fastext,Bert) VW project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/NLQ%20search%20and%20classification
 ### 41. 3M Shipping Delivery Date prediction https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/3M%20Shipping%20Delivery%20Date%20prediction
 ### 42. gpt finetuning with openai api vw project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/gpt%20finetuning%20with%20openai%20api
+### 43. Tread Category Prediction vw project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/NLQ%20search%20and%20classification/Tread_category_prediction
