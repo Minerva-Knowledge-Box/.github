@@ -50,3 +50,6 @@
 ### 41. 3M Shipping Delivery Date prediction https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/3M%20Shipping%20Delivery%20Date%20prediction
 ### 42. gpt finetuning with openai api vw project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/gpt%20finetuning%20with%20openai%20api
 ### 43. Tread Category Prediction vw project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/NLQ%20search%20and%20classification/Tread_category_prediction
+### 44. Databricks Rag Project by Mehedi: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/databricks%20rag%20practice%20mehedi
+### 45. Dtatbricks Rag Project by Rifat vai: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/databricks%20rag%20project%20Rifat%20vai
+
