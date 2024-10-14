@@ -52,4 +52,5 @@
 ### 43. Tread Category Prediction vw project: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/NLQ%20search%20and%20classification/Tread_category_prediction
 ### 44. Databricks Rag Project by Mehedi: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/databricks%20rag%20practice%20mehedi
 ### 45. Dtatbricks Rag Project by Rifat vai: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/databricks%20rag%20project%20Rifat%20vai
+### 46. Rag Cross encoder: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/rag%20cross%20encoder
 
