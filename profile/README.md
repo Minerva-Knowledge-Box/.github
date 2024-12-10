@@ -54,5 +54,5 @@
 ### 45. Dtatbricks Rag Project by Rifat vai: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/databricks%20rag%20project%20Rifat%20vai
 ### 46. Rag Cross encoder: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/rag%20cross%20encoder
 ### 47. Multimodel Image Search: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/MultiModalImageSearch/image_search
-### 48. Multimodal Slide Search: 
+### 48. Multimodal Slide Search: https://github.com/Minerva-Knowledge-Box/Mehedi/tree/main/MultiModalImageSearch/pptx_text_search
 
